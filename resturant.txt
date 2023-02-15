@@ -6,11 +6,41 @@ Bevande:	-Vino bianco
            	-Coca cola
            	-Champagne
            	-Vino rosè
-Dessert:	-Tiramisù dello Chef					6€
-	-Cannolo siciliano artigianale				5€
-	-Soufflè al cioccolato fondente				6€
-	-Meringata					5€
-	-Crema catalana					5€
+Primi Piatti:        
+            Spaghetti allo Scoglio
+            Ingredienti: Spaghetti, Vongole, Scampi, 
+                         Cozze, Calamari, Pomodoro ciliegio, 
+                         Vino bianco, Prezzemolo, Aglio, 
+                         Olio Evo, Sale, Pepe.
 
-	-Tiramisù senza glutine, senza lattosio			8€
-	-Cuore Caldo al cioccolato senza glutine senza lattosio	8€
+            Pasta con le Sarde
+            Ingredienti: Spaghettoni, Sarde, Acciughe sott'olio, 
+                         Finocchietto selvatico, Uva passa, Pinoli, 
+                         Cipollotto, Aglio rosso, Olio Evo, Sale, 
+                         Peperoncino.
+
+            Linguine al limone con gamberi e pistacchi
+            Ingredienti: Linguine, Gamberi, Limone, 
+                         Pistacchi, Aglio, Aglio, Olio Evo, Sale, Pepe.
+                         
+Secondi Piatti: 
+                Involtini pesce spada           17€
+                Gamberoni alla griglia          19€
+                Orata in crosta di sale         27€
+                Aragosta alla catalana          35€
+                Salmone in crosta di pistacchi  23€
+                Polpo con cipolle e patate      21€
+                Tonno alla griglia              15€
+                
+       Dessert:	-Tiramisù dello Chef					6€
+                -Cannolo siciliano artigianale				5€
+                -Soufflè al cioccolato fondente				6€
+                -Meringata					5€
+                -Crema catalana					5€
+                -Tiramisù senza glutine, senza lattosio			8€
+                -Cuore Caldo al cioccolato senza glutine senza lattosio	8€
+              
+
+
+
+

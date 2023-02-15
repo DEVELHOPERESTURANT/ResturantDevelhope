@@ -1,5 +1,13 @@
 Nome Ristorante: Il Baccalà D'orato
-Menù: PescePrimi Piatti: 
+
+Bevande:    -Vino bianco
+            -Acqua Evian
+            -Acqua Evian frizzante
+            -Coca cola
+            -Champagne
+            -Vino rosè
+
+Primi Piatti: 
         
             Spaghetti allo Scoglio
             Ingredienti: Spaghetti, Vongole, Scampi, 
@@ -17,10 +25,13 @@ Menù: PescePrimi Piatti:
             Ingredienti: Linguine, Gamberi, Limone, 
                          Pistacchi, Aglio, Aglio, Olio Evo, Sale, Pepe.
                          
-Bevande:    -Vino bianco
-            -Acqua Evian
-            -Acqua Evian frizzante
-            -Coca cola
-            -Champagne
-            -Vino rosèNome
+
+Secondi Piatti: Involtini pesce spada           17€
+                Gamberoni alla griglia          19€
+                Orata in crosta di sale         27€
+                Aragosta alla catalana          35€
+                Salmone in crosta di pistacchi  23€
+                Polpo con cipolle e patate      21€
+                Tonno alla griglia              15€
+
 
